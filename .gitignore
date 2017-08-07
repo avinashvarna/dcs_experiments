@@ -1,3 +1,12 @@
+# Custom files
+.ipynb_checkpoints
+couchdb-backup.sh
+dcs_books.json
+dcs_sentences.json
+*.log
+sent_roots.csv
+backups/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -99,3 +108,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# pydev project settings
+.project
+.pydevproject
+
